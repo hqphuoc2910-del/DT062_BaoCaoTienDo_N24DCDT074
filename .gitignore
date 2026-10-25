@@ -1,0 +1,5 @@
+# Tệp tạm và rác
+*.tmp
+*~
+.DS_Store
+Thumbs.db
